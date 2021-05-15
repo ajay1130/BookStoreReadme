@@ -1,149 +1,85 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://avatars2.githubusercontent.com/u/40952264?s=400&u=626a34d95390429dcf1a20e215e6701cf40e42a5&v=4" alt="Logo" width=100 height=100 style="border-radius:50%;">
-  </a>
 
-  <h3 align="center">Ajay Kori</h3>
 
-  <p align="center">
-    Android Developer 
-    <!-- <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a> -->
-  </p>
+  <h3 align="center">Developed using node.js & ejs template By <a href="https://github.com/ajay1130"> Ajay Kori</a> </h3>
 </p>
 </br>
-</br>
 
-# Gujarat Guide
+# Bookstore
 
-Gujarat Guide app is created in android where user can get details of gujarat like history of gujarat, art & culture, hospitals list, cineams, fairs & festivals, universities, best places to visit etc.
+Bookstore is all about where can see list of categories and can search for books that he is looking for and can buy & sell their books at this platform with ease of use. buyer can send their payment via paytm/cod & seller can get their payment to their bank account.
 
 
-# Gujarat Guide Backend
+# Backend connectivity for this project
 
-Here we have used mongodb for backend connectivity for this app.
+Here we have used our backend connectivity in mongodb for this project.
 
 
 
 # Screen Shorts
 
 
-## Login
+## Signup Page
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/login.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/login-dark.png" width="200" />
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(559).png" style="width:60%;height:200px;" />
 </p>
 
-## Sign Up
+
+## Login Page
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/signup.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/signup-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(560).png" style="width:60%;height:200px;" />
 </p>
+
 
 ## Forgot Password
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/forgotPassword.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/forgotPassword-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(561).png" style="width:60%;height:200px;" />
 </p>
 
-## Home
+
+## Mail sent for forgot password
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userHome.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userHome-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(564).png" style="width:60%;height:200px;" />
+  <br/>
+   <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(565).png" style="width:60%;height:200px;" />
 </p>
 
-## Search
+
+## User Dashboard
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userSearch.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userSearch-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(568).png" style="width:60%;height:200px;" />
+   <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(569).png" style="width:60%;height:200px;" />
+   <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(571).png" style="width:60%;height:200px;" />
 </p>
 
-## Donate Book
+
+## My Orders
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/donateBook.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/donateBook-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(573).png" style="width:60%;height:200px;" />
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(575).png" style="width:60%;height:200px;" />
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(577).png" style="width:60%;height:200px;" />
 </p>
 
-## Notification
-### Request
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/notification(Request).png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/notification(Request)-dark.png" width="200" /> 
-</p>
-
-### Order
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/notifiction(Order).png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/notifiction(Order)-dark.png" width="200" /> 
-</p>
-
-## Profile
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/profile.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/profile-dark.png" width="200" /> 
-</p>
-
-## Profile
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/editProfile.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/editProfile-dark.png" width="200" /> 
-</p>
-
-## Edit Profile
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/editProfile.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/editProfile-dark.png" width="200" /> 
-</p>
 
 ## Change Password
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/changePassword.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/changePassword-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(579).png" style="width:60%;height:200px;" />
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(580).png" style="width:60%;height:200px;" />
 </p>
 
-## My Books
+
+## Change Password
 <p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userMyBookPage.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/userMyBookPage-dark.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ajay1130/BookStoreReadme/main/ScreenShots/Screenshot%20(579).png" style="width:60%;height:200px;" />
 </p>
 
-## About us (Developer)
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/aboutUs.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/aboutUs-dark.png" width="200" /> 
-</p>
 
-# Admin
 
-## Home
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminHome.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminHome-dark.png" width="200" /> 
-</p>
 
-## Users
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminUserPage.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminUserPage-dark.png" width="200" /> 
-</p>
-
-## Books
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminBookPage.png" width="200" />
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/adminBookPage-dark.png" width="200" /> 
-</p>
-
-# Mail
-<p float="left">
-  <img src="https://raw.githubusercontent.com/PrafulDiwani/Book-Sharing-Ionic-README/main/resources/orderConfirmMail.jpg" width="200" />
-</p>
 
 # Contact 
-📞 +91 70698 82473
-<br>
-📧 dpraful72@gmail.com
+📧 ajaykori2130@gmail.com
+
 
 ## License
-[MIT](https://github.com/PrafulDiwani/Book-Sharing-Ionic-README/blob/main/LICENSE)
+[MIT](https://github.com/ajay1130/BookStoreReadme/blob/main/LICENSE)
